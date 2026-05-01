@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://argonarsoftware-oss.github.io/snippets-s54qcc/sitemap.xml
